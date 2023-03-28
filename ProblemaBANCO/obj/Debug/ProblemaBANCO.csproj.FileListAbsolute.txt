@@ -1,0 +1,12 @@
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.csproj.AssemblyReference.cache
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.Presentacion.FormAgregar.resources
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.FormConsultar.resources
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.Properties.Resources.resources
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.csproj.GenerateResource.cache
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.csproj.CoreCompileInputs.cache
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\bin\Debug\ProblemaBANCO.exe.config
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\bin\Debug\ProblemaBANCO.exe
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\bin\Debug\ProblemaBANCO.pdb
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.exe
+C:\Users\imasu\source\repos\ProblemaBANCO\ProblemaBANCO\obj\Debug\ProblemaBANCO.pdb
